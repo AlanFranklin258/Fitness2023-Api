@@ -1,7 +1,7 @@
 # Fitness2023-Api
 
 ## 说明
-本项目是基于Huawei Watch 3开发的运动健康APP后端部分。实际编写本项目仅作为参考。
+本项目是基于Huawei Watch 3开发的运动健康APP后端部分。实际开发时，本项目仅作为参考。
 
 ## 环境
 开发工具：vscode、nodemon、nodejs <br>
@@ -37,3 +37,6 @@
 ```
   pm2 start index.js
 ```
+
+## 配套前端项目
+https://github.com/AlanFranklin258/Fitness2023
