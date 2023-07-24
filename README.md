@@ -4,7 +4,7 @@
 本项目是基于Huawei Watch 3开发的运动健康APP后端部分。实际编写本项目仅作为参考。
 
 ## 环境
-开发工具：vscode、nodemon、nodejs
+开发工具：vscode、nodemon、nodejs <br>
 开发语言：JavaScript
 
 ## 结构
@@ -32,7 +32,7 @@
 注意，nodemon是热启动，每次修改代码都会自动重新执行，因此对数据库的操作要尤为谨慎。
 
 ### 在服务器上启动
-将项目配置在服务器上（参考 https://www.bilibili.com/video/BV1my4y1a7xN?p=1&vd_source=5e2172352eac9cefe238dc，https://www.yuque.com/uyyv8m/linux/im67s65a49k3yk1m）
+将项目配置在服务器上（参考 https://www.bilibili.com/video/BV1my4y1a7xN?p=1&vd_source=5e2172352eac9cefe238dc, https://www.yuque.com/uyyv8m/linux/im67s65a49k3yk1m） <br>
 一般使用pm2命令来启动nodejs服务，在项目根目录下启动：
 ```
   pm2 start index.js
